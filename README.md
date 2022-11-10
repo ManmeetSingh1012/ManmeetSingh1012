@@ -19,7 +19,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/manmeetsingh1012" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="manmeetsingh1012" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/manmeet singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manmeet singh" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/manmeet-singh-749876205/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manmeet singh" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/manmeetsingh1012" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="manmeetsingh1012" height="30" width="40" /></a>
 </p>
 
